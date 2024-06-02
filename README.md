@@ -2,6 +2,8 @@
 
 A simple veterinary patient management application built with React.js, TypeScript, TailwindCSS, Zustand, React Hook Form, and React Toastify.
 
+![Administrador de Pacientes](https://github.com/owenvassarotto/veterinary-patient-management/assets/110845731/b46b207a-a189-49eb-ad52-d6c558fabf79)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -80,4 +82,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Developed by Owen Vassarotto.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/owenvassarotto).
-# veterinary-patient-management
